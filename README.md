@@ -1,6 +1,9 @@
 # Dhanu
 # 💫 About Me:
-🤖 Learning full-stack develoment<br>👯 Open source using HTML,CSS,JavaScript<br>🤞Git & GitHub workflows<br>💬 Frontend developmennt<br>
+- 🌱 Learning Full-Stack Development
+- 💻 Working with HTML, CSS, JavaScript
+- 🔧 Exploring Git & GitHub workflows
+- 🎨 Interested in Frontend Development
 
 
 ## 🌐 Socials:
